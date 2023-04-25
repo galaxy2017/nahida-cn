@@ -2,7 +2,7 @@
  * @Author: onmyoji onmyoji@qq.com
  * @Date: 2023-03-21 14:28:02
  * @LastEditors: onmyoji onmyoji@qq.com
- * @LastEditTime: 2023-03-21 15:54:26
+ * @LastEditTime: 2023-04-04 15:24:17
  * @FilePath: \nahida-cn\docusaurus.config.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -16,7 +16,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '世界第一可爱',
   tagline: '网站还在建设中',
-  favicon: 'http://img.up.cdn.nahida.cn/nahida/icon.jpg',
+  favicon: 'https://img.up.cdn.nahida.cn/nahida/icon.jpg',
 
   // Set the production url of your site here
   url: 'https://www.nahida.cn',
@@ -75,7 +75,7 @@ const config = {
         title: '世界第一可爱',
         logo: {
           alt: '纳西妲',
-          src: 'http://img.up.cdn.nahida.cn/nahida/icon.jpg',
+          src: 'https://img.up.cdn.nahida.cn/nahida/icon.jpg',
         },
         
       },
