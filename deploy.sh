@@ -3,7 +3,7 @@
  # @Author: onmyoji onmyoji@qq.com
  # @Date: 2023-03-21 16:10:50
  # @LastEditors: onmyoji onmyoji@qq.com
- # @LastEditTime: 2023-04-20 21:52:00
+ # @LastEditTime: 2023-05-08 20:35:24
  # @FilePath: \nahida-cn\deploy.sh
  # @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 ### 
@@ -35,4 +35,5 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@galaxy2017/galaxy2017.GitHub.io.git main:gh-pages
-git push -f https://${access_token}@https://github.com/galaxy2017/nahida-cn.git master:gh-pages
+# git push -f https://${access_token}@https://github.com/galaxy2017/nahida-cn.git master:gh-pages
+git push -f https://github.com/galaxy2017/nahida-cn.git master:gh-pages
