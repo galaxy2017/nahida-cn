@@ -2,7 +2,7 @@
  * @Author: onmyoji onmyoji@qq.com
  * @Date: 2023-03-21 14:28:02
  * @LastEditors: onmyoji onmyoji@qq.com
- * @LastEditTime: 2023-05-21 15:57:28
+ * @LastEditTime: 2023-05-21 16:02:33
  * @FilePath: \nahida-cn\docusaurus.config.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -14,7 +14,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The Cutest One in the World',
+  title: '世界第一可爱',
   tagline: '网站还在建设中',
   favicon: 'https://img.up.cdn.nahida.cn/nahida/icon.jpg',
 
