@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknahida_cn=self.webpackChunknahida_cn||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u4eba\u673a\u4ea4\u4e92\u4f5c\u4e1a","permalink":"/blog/human-computer_interaction"}]}')}}]);
